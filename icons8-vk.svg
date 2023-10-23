@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0,0,256,256"
+   width="48px"
+   height="48px"
+   version="1.1"
+   id="svg11668"
+   sodipodi:docname="icons8-vk.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11672" />
+  <sodipodi:namedview
+     id="namedview11670"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="18.552564"
+     inkscape:cy="28.332211"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g11664" />
+  <g
+     fill-opacity="0"
+     fill="#dddddd"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g11658">
+    <path
+       d="M0,256v-256h256v256z"
+       id="bgRectangle" />
+  </g>
+  <g
+     fill="#ffffff"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="1"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g11666">
+    <g
+       transform="scale(5.33333,5.33333)"
+       id="g11664">
+      <path
+         id="path11660"
+         d="M 24.000015 4.0000025 C 12.954336 4.0000025 4.0000025 12.954336 4.0000025 24.000015 C 4.0000025 35.045694 12.954336 44.000028 24.000015 44.000028 C 35.045694 44.000028 44.000028 35.045694 44.000028 24.000015 C 44.000028 12.954336 35.045694 4.0000025 24.000015 4.0000025 z M 12.890633 17.000011 L 15.533213 17.000011 C 16.194212 17.000011 16.447183 17.294371 16.701182 18.068371 C 17.874181 22.000367 19.627592 25.000016 20.517591 25.000016 C 20.847591 25.000016 21.000013 24.840952 21.000013 23.960952 L 21.000013 20.337903 C 20.898013 18.468905 20.000013 18.307635 20.000013 17.640636 C 20.000013 17.319636 20.212154 17.000011 20.619154 17.000011 L 25.267594 17.000011 C 25.826593 17.000011 26.000016 17.319684 26.000016 18.013683 L 26.000016 23.199233 C 26.000016 23.786233 26.446064 24.000015 26.623064 24.000015 C 26.953063 24.000015 27.263065 24.016014 27.873064 23.375015 C 29.754062 21.160017 31.386738 17.800792 31.386738 17.800792 C 31.564738 17.399793 31.870271 17.000011 32.53127 17.000011 L 35.148459 17.000011 C 35.734459 17.000011 35.983069 17.263011 35.998069 17.625011 C 36.004069 17.750011 35.983522 17.890027 35.937522 18.041027 C 35.607523 19.642025 32.222067 24.392593 32.248067 24.392593 C 32.104067 24.638593 32.00902 24.815016 32.00002 25.000016 C 31.99102 25.176015 32.061067 25.36011 32.248067 25.62111 C 32.527067 26.021109 33.135022 26.757018 33.750021 27.500017 C 34.86002 28.842016 35.749382 30.250192 35.943382 30.826191 C 35.984382 30.983191 36.003022 31.12402 36.000023 31.25002 C 35.986023 31.745019 35.637318 32.00002 35.029319 32.00002 L 32.410177 32.00002 C 31.418177 32.00002 31.105017 31.018016 29.375018 29.000018 C 27.87502 27.25002 27.097813 27.000017 26.716814 27.000017 C 26.182814 27.000017 25.999063 27.132612 25.998063 27.933611 L 25.998063 30.906269 C 25.998063 31.573269 25.826451 32.00002 24.148453 32.00002 C 21.378455 32.00002 18.250008 30.125014 15.87501 26.875017 C 12.600013 22.393021 12.000008 18.494448 12.000008 17.773449 C 12.000008 17.373449 12.127634 17.000011 12.890633 17.000011 z "
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
